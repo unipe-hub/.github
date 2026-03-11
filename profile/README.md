@@ -1,50 +1,5 @@
 # UNIPE Open Academic Community
 
-## Portugues
-
-Bem-vindo a organizacao GitHub de uma iniciativa comunitaria criada por estudantes do **UNIPE (Centro Universitario de Joao Pessoa)**.
-
-Construimos e compartilhamos recursos academicos abertos para ajudar estudantes a aprender em conjunto, estudar melhor e contribuir com projetos praticos que beneficiem a comunidade universitaria.
-
-### Nossa Missao
-
-Nossa missao e tornar o conhecimento academico mais acessivel por meio da colaboracao. Queremos manter um espaco confiavel de codigo aberto onde estudantes possam compartilhar materiais, melhorar recursos ao longo do tempo e apoiar uns aos outros em diferentes cursos e areas.
-
-### O Que Voce Vai Encontrar Aqui
-
-Esta organizacao pode hospedar varios repositorios, incluindo:
-
-- **Materiais de estudo** como anotacoes, resumos e guias de referencia
-- **Roadmaps** para ajudar estudantes a planejar o que estudar e em que ordem
-- **Exercicios** para pratica, revisao e autoavaliacao
-- **Provas antigas** e recursos de revisao, quando o compartilhamento for apropriado
-- **Projetos open source** criados por estudantes para aprendizado e impacto na comunidade
-
-### Como Estudantes Podem Contribuir
-
-Voce nao precisa ser especialista para contribuir. Estudantes podem ajudar:
-
-- adicionando anotacoes e materiais de revisao
-- melhorando a documentacao existente
-- corrigindo erros ou informacoes desatualizadas
-- sugerindo novos recursos ou ideias de repositorios
-- contribuindo com codigo para projetos academicos e comunitarios
-
-### Como Comecar
-
-1. Explore os repositorios desta organizacao.
-2. Leia a documentacao e as diretrizes de contribuicao de cada repositorio.
-3. Faca um fork do repositorio que deseja melhorar.
-4. Realize suas alteracoes e abra um pull request.
-
-Se voce esta comecando em open source, este e um bom lugar para isso. Pequenas melhorias tem valor, e toda contribuicao pode ajudar outro estudante.
-
-### Espirito da Comunidade
-
-Queremos que esta organizacao seja acolhedora, respeitosa e util. Seja compartilhando seu primeiro material de estudo ou contribuindo para um projeto maior, seu trabalho pode tornar o aprendizado mais acessivel para outras pessoas.
-
-## English
-
 Welcome to the GitHub organization for a community-driven initiative created by students of **UNIPE (Centro Universitario de Joao Pessoa)**.
 
 We build and share open academic resources to help students learn together, study better, and contribute to practical projects that benefit the wider university community.
