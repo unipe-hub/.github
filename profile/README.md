@@ -1,42 +1,83 @@
-# UNIPE Open Academic Community
+# UNIPÊ Open Academic Community
 
-Welcome to the GitHub organization for a community-driven initiative created by students of **UNIPE (Centro Universitario de Joao Pessoa)**.
+![Open Source](https://img.shields.io/badge/Open%20Source-Community-green)
+![Students](https://img.shields.io/badge/Built%20by-Students-blue)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-We build and share open academic resources to help students learn together, study better, and contribute to practical projects that benefit the wider university community.
+*An open community where UNIPÊ students learn, collaborate, and grow together.*
 
-### Our Mission
+Welcome to the GitHub organization for a community-driven initiative created by students of **UNIPÊ (Centro Universitário de João Pessoa)**.
 
-Our mission is to make academic knowledge more accessible through collaboration. We aim to create a reliable open source space where students can share materials, improve resources over time, and support each other across different courses and disciplines.
+This space was created to help students **study together, share knowledge, and grow both academically and professionally**. The goal is to build an open environment where students can access useful resources, improve them over time, and collaborate on projects that benefit the university community.
 
-### What You Will Find Here
+---
 
-This organization may host multiple repositories, including:
+## What You Will Find Here
 
-- **Study materials** such as notes, summaries, and reference guides
-- **Roadmaps** to help students plan what to study and in what order
-- **Exercises** for practice, revision, and self-assessment
-- **Past exams** and review resources when sharing is appropriate
-- **Open source projects** created by students for learning and community impact
+This organization hosts repositories designed to help students both **prepare for their academic life and for the job market**.
 
-### How Students Can Contribute
+Examples of resources you may find:
 
-You do not need to be an expert to contribute. Students can help by:
+📚 **Study materials**  
+Notes, summaries, and reference guides from different courses.
 
-- adding study notes or review materials
-- improving existing documentation
-- fixing mistakes or outdated information
-- suggesting new resources or repository ideas
-- contributing code to academic and community projects
+🧠 **Exercises and practice problems**  
+Practice material to reinforce important concepts.
 
-### How To Get Started
+🗺️ **Learning roadmaps**  
+Guides to help students understand what to study and in what order.
 
-1. Explore the repositories in this organization.
-2. Read each repository's documentation and contribution guidelines.
-3. Fork the repository you want to improve.
-4. Make your changes and open a pull request.
+💼 **Interview preparation**  
+Resources to help students prepare for internships and entry-level positions.
 
-If you are new to open source, this is a good place to start. Small improvements are valuable, and every contribution helps another student.
+🚀 **Career guidance**  
+Repositories about technologies, tools, and different areas of the market.
 
-### Community Spirit
+📝 **Past exams and revision resources**  
+Previous tests and review materials when sharing them is appropriate.
 
-We want this organization to be welcoming, respectful, and useful. Whether you are sharing your first set of notes or contributing to a larger project, your work can make learning more accessible for others.
+💻 **Open source projects**  
+Projects created by students to learn, experiment, and build practical experience.
+
+As the community grows, new repositories and resources will continue to be added.
+
+---
+
+## How Students Can Contribute
+
+You do not need to be an expert to contribute. Everyone can help improve the community.
+
+Students can contribute by:
+
+- adding study notes or summaries  
+- improving existing documentation  
+- correcting mistakes or outdated information  
+- suggesting new resources or repository ideas  
+- sharing interview preparation materials  
+- contributing code to community projects  
+
+Even small contributions can help another student learn something new.
+
+---
+
+## How To Get Started
+
+If you would like to contribute:
+
+1. Explore the repositories in this organization  
+2. Read the documentation and contribution guidelines  
+3. Fork the repository you want to contribute to  
+4. Make your changes  
+5. Open a pull request  
+
+If you are new to open source, this is a great place to start. Contributions of all sizes are welcome.
+
+---
+
+## Community Spirit
+
+This organization is built on collaboration, respect, and the idea that **students can help other students succeed**.
+
+Whether you are sharing your first set of notes, improving study materials, or contributing to a larger project, your work can make learning more accessible for others.
+
+Together, we can build a knowledge base that benefits both **current and future students**.
